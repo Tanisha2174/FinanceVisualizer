@@ -93,21 +93,6 @@ A modern, responsive web application for tracking and visualizing personal finan
 - Efficient state management with Context API
 
 
-## 🔧 Available Scripts
-
-```bash
-# Development
-npm run dev          # Start development server
-npm run build        # Build for production
-npm run start        # Start production server
-npm run lint         # Run ESLint
-npm run type-check   # Run TypeScript compiler
-
-# Testing
-npm run test         # Run tests
-npm run test:watch   # Run tests in watch mode
-```
-
 ## 🌟 Future Enhancements
 
 - [ ] Export data to CSV/PDF
@@ -118,24 +103,6 @@ npm run test:watch   # Run tests in watch mode
 - [ ] Data import from bank statements
 - [ ] Spending predictions with AI
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -147,28 +114,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If you found this project helpful, please consider giving it a star on GitHub!
-
-## 🚀 Deployment
-
-This application can be easily deployed on various platforms:
-
-### Vercel (Recommended)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/personal-finance-visualizer)
-
-### Netlify
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/personal-finance-visualizer)
-
-### Manual Deployment
-1. Run `npm run build`
-2. Upload the `out` folder to your hosting provider
-3. Configure your server to serve the static files
-
-## 📞 Support
-
-If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/yourusername/personal-finance-visualizer/issues) page
-2. Create a new issue with detailed information
-3. Reach out via email or social media
 
 ---
 
