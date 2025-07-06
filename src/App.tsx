@@ -62,7 +62,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-600 via-purple-600 to-purple-800 p-6">
-      <div className="max-w-8xl mx-auto">
+      <div className="max-w-20xl mx-auto">
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-white mb-2">
